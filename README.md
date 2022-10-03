@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/Guilherme-Andriel)
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_andriel/)
-[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermeandriel78@gmail.com)
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("guilhermeandriel78@gmail.com")
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](988997869)
 
 ![Guilherme-Andriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Andriel&show_icons=true&theme=dracula)
