@@ -6,7 +6,7 @@
 
 ![Guilherme-Andriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Andriel&show_icons=true&theme=dracula)
 
-Estudante de Tecnologia da Informação (TI), venho aprendendo cada vez mais na faculdade (UFRN). Adoraria ter a oportunidade de usar as habilidades que venho desenvolvendo.
+Estudante de Tecnologia da Informação (TI), venho aprendendo cada vez mais na faculdade (UFRN). Adoraria ter a oportunidade de usar as habilidades que venho desenvolvend.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel)](https://github.com/anuraghazra/github-readme-stats)
 
