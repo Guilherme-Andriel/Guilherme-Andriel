@@ -25,7 +25,7 @@ E-mail: guilhermeandriel78@gmail.com
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Andriel&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Guilherme Andriel github stats" /> 
+ 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical" />
 </div>
 
