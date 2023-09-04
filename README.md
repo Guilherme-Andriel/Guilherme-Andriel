@@ -30,4 +30,4 @@ E-mail: guilhermeandriel78@gmail.com
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=120&section=footer"/>
