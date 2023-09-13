@@ -1,18 +1,14 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Guilherme-Andriel/Guilherme-Andriel/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<br>
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devgui.code/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andriel-80b17728a/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Guilherme_Andriel#6929)
 
 
-### Sobre mim:
-Estudante de Tecnologia da Informação (TI), venho aprendendo cada vez mais na faculdade (UFRN). Adoraria ter a oportunidade de usar as habilidades que venho desenvolvendo.
+## Sobre mim
 
-E-mail: guilhermeandriel78@gmail.com
-### Tecnologias que utilizo atualmente:
+Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
+
+Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e descobrir novas. Além disso, sou um ávido ouvinte de música e, nas horas vagas, compartilho minhas descobertas e aprendizados no perfil do [instagram](https://www.instagram.com/devgui.code/).
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+## Habilidades
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
@@ -21,10 +17,26 @@ E-mail: guilhermeandriel78@gmail.com
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 
+## Contato
+
+- 💬 Você pode entrar em contato comigo via [e-mail](mailto:guilhermeandriel78@gmail.com).
+- 🔗 Minha conta no [Discord](https://discord.com/channels/@Guilherme_Andriel#6929).
+- 🌐 Meu website pessoal: [Guilherme-Andriel](https://www.seuwebsite.com).
+  
+## Redes Sociais
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devgui.code/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andriel-80b17728a/)
+
+## Estatísticas do GitHub
+
 <div align="center">
-](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
 </div>
-<img width="60%" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
+
+## Obrigado por Visitar! 👋
+
+Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato. Adoro conhecer novas pessoas e colaborar em projetos interessantes!
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=120&section=footer"/>
