@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0260&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
 ## Sobre mim
 
 Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
@@ -40,4 +40,4 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato. Adoro conhecer novas pessoas e colaborar em projetos interessantes!
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0260&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
