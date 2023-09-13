@@ -1,10 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=120&section=header"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Guilherme-Andriel/Guilherme-Andriel/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90e0ef&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Andriel;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-<br><br>
+<br>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devgui.code/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andriel-80b17728a/)
@@ -25,9 +22,9 @@ E-mail: guilhermeandriel78@gmail.com
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 
 <div align="center">
-  <img width="60%" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical)
 </div>
-
+<img width="60%" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=120&section=footer"/>
