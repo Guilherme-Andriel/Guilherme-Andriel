@@ -24,10 +24,7 @@ E-mail: guilhermeandriel78@gmail.com
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 
-<div align="center">  
- 
-  <img width="60%" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=120&section=footer"/>
