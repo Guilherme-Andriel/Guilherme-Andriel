@@ -32,7 +32,7 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 ## Estatísticas do GitHub
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
+<img width="100%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
 </div>
 
 ## Obrigado por Visitar! 👋
