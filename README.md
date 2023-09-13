@@ -1,3 +1,8 @@
+
+<div style="background-image: url('img/Guilherme.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 300px; text-align: center; color: #ffffff; padding-top: 100px; font-family: Arial, sans-serif;">
+    <h1>Guilherme</h1>
+</div>
+
 ## Sobre mim
 
 Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
