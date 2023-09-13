@@ -1,5 +1,3 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
 ## Sobre mim
 
 Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
