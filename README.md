@@ -1,5 +1,5 @@
 
-<div style="background-image: url('img/Guilherme.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 300px; text-align: center; color: #ffffff; padding-top: 100px; font-family: Arial, sans-serif;">
+<div style="background-image: url('img/capa.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 300px; text-align: center; color: #ffffff; padding-top: 100px; font-family: Arial, sans-serif;">
     <h1>Guilherme</h1>
 </div>
 
