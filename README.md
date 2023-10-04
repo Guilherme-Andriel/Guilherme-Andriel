@@ -41,5 +41,8 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 
 Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato. Adoro conhecer novas pessoas e colaborar em projetos interessantes!
 
+![Snake animation](https://github.com/Guilherme-Andriel/Guilherme-Andriel/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Andriel&repo=Guilherme-Andriel&theme=react)](https://github.com/Guilherme-Andriel/Guilherme-Andriel)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
