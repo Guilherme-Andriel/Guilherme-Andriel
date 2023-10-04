@@ -1,12 +1,12 @@
-<div style="background-image: url('capa.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 300px; text-align: center; color: #ffffff; padding-top: 100px; font-family: Arial, sans-serif;">
-    <h1>Guilherme</h1>
-</div>
+
+<img src="capa.png">
 
 ## Sobre mim
 
 Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
 
 Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e descobrir novas. Além disso, sou um ávido ouvinte de música e, nas horas vagas, compartilho minhas descobertas e aprendizados no perfil do [instagram](https://www.instagram.com/devgui.code/).
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
@@ -42,7 +42,5 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato. Adoro conhecer novas pessoas e colaborar em projetos interessantes!
 
 ![Snake animation](https://github.com/Guilherme-Andriel/Guilherme-Andriel/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Andriel&repo=Guilherme-Andriel&theme=react)](https://github.com/Guilherme-Andriel/Guilherme-Andriel)
-
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
