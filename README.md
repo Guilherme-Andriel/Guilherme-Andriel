@@ -23,7 +23,7 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 
 - 💬 Você pode entrar em contato comigo via [e-mail](mailto:guilhermeandriel78@gmail.com).
 - 🔗 Minha conta no [Discord](https://discord.com/channels/@Guilherme_Andriel#6929).
-- 🌐 Meu website pessoal: [Guilherme-Andriel](https://www.seuwebsite.com).
+- 🌐 Meu website pessoal: [Guilherme-Andriel](https://guilherme-andriel.github.io/MeuPortfolio/).
   
 ## Redes Sociais
 
@@ -33,7 +33,8 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 ## Estatísticas do GitHub
 
 <div align="center">
-<img width="100%" height=170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Andriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img width="50%" height=170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Andriel&layout=compact&hide_border=true&theme=radical"/>
 </div>
 
 ## Obrigado por Visitar! 👋
@@ -43,4 +44,4 @@ Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, suge
 ![snake gif](https://github.com/Guilherme-Andriel/blob/output/github-contribution-grid-snake.gif)
  
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cee9ed&height=120&section=footer"/>
