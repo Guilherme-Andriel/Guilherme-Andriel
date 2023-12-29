@@ -6,7 +6,7 @@ Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprim
 
 Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e descobrir novas. Além disso, sou um ávido ouvinte de música e, nas horas vagas, compartilho minhas descobertas e aprendizados no perfil do [instagram](https://www.instagram.com/devgui.code/).
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ## Habilidades
@@ -40,6 +40,7 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 
 Agradeço por dar uma olhada no meu perfil. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato. Adoro conhecer novas pessoas e colaborar em projetos interessantes!
 
-![Snake animation](https://github.com/Guilherme-Andriel/Guilherme-Andriel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Guilherme-Andriel/blob/output/github-contribution-grid-snake.gif)
+ 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b05b2&height=120&section=footer"/>
