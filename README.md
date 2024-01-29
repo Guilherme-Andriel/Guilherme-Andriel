@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Frontend. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
+Sou um estudante de Tecnologia da Informação (TI) e estou constantemente aprimorando minhas habilidades enquanto curso minha graduação na UFRN, com um interesse particular em Desenvolvedor Web. Estou entusiasmado por oportunidades que me permitam aplicar o conhecimento que tenho adquirido. Meu objetivo é crescer profissionalmente e aproveitar ao máximo cada chance que me for dada. 
 
 Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e descobrir novas. Além disso, sou um ávido ouvinte de música e, nas horas vagas, compartilho minhas descobertas e aprendizados no perfil do [instagram](https://www.instagram.com/devgui.code/).
 
@@ -17,8 +17,10 @@ Fora do âmbito acadêmico, sou fanático por maratonar séries favoritas e desc
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
+
 
 ## Contato
 
